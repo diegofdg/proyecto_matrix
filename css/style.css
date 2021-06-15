@@ -1,8 +1,9 @@
-body {
-    height: 100%;        
+body {      
+    overflow-y:hidden;
+    width: 100%;      
     background: #000;
 }
 
-canvas {    
+canvas {        
     width: 100%;    
 }
